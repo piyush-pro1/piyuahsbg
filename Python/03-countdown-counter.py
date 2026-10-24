@@ -7,6 +7,6 @@ if start < 1:
 else:
     while start > 0:
         print(start)
-        start -= 1
+        start += 1
 
     print("Go!")
